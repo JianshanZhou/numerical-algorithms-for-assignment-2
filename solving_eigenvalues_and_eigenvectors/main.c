@@ -103,9 +103,9 @@ int main()
 {
     inf();
 
-    test_on_triangulation();
-    test_on_QR_decomposition();
-    test_on_eigenvalues_solution();
+    //test_on_triangulation();
+    //test_on_QR_decomposition();
+//    test_on_eigenvalues_solution();
     test_on_eigenvectors_solution();
 
     return 0;
