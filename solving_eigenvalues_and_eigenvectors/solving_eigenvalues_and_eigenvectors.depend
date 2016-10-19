@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1476800514 source:c:\users\zhoujianshan\documents\github\test1\numerical-algorithms-2\numerical-algorithms-for-assignment-2\solving_eigenvalues_and_eigenvectors\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1476886373 source:c:\users\zhoujianshan\onedrive\ÎÄµµ\c_projects\zhoujianshan_by1613123_project1\solving_eigenvalues_and_eigenvectors\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
